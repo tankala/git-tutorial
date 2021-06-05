@@ -4,4 +4,4 @@ Git tutorial details will be here
 
 ## Youtube video link
 
-Git & GitHub Basics: 
+Git & GitHub Basics: https://youtu.be/YLs6lgbo3XA
